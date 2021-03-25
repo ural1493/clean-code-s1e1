@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row__wrapper {
+.task__row-wrapper {
   display: flex;
 }
 ul {
