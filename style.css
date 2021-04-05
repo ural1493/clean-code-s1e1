@@ -147,7 +147,9 @@
   text-decoration: line-through;
   color: #888;
 }
-
+.completed__item .main__label{
+  text-decoration: line-through;
+}
 /* Edit Task */
 .incomplete .main__input_text,
 .completed .main__input_text{
